@@ -5,6 +5,6 @@ Feito com [Python3](https://www.python.org/) e [Pygame](https://www.pygame.org/n
 
 ## Imagens do jogo (PONG-PY)
 
-![Menu](#)
+![Menu](https://raw.githubusercontent.com/luca-gouveia/PONG-PY/master/images/main_screen.png)
 <br>
-![O jogo](#)
+![O jogo](https://raw.githubusercontent.com/luca-gouveia/PONG-PY/master/images/game_screen.png)
