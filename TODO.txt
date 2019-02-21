@@ -1,4 +1,0 @@
-- Melhorar colisão no eixo y
-- Cronometrar o tempo de jogo
-- Permitir partida contra a CPU
-- Resolver o 'zeramento' do placar com a tecla space
